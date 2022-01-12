@@ -9,6 +9,6 @@ he visto obligado a hacer diferentes repositoros con los boletines de cada evalu
 suponga mucho problema. A continuacion dejo los enlaces a los otros repositorios para que puedas acceder a ellos sin 
 problema. Disculpa las molestias.
 ```
-### Para acceder a los *boletines de la primera evaluacion* [`click aquí`](https://github.com/Endermaiter/BoletinesProgramacion1Evaluacion.git).
-### Para acceder a los *boletines de la segunda evaluacion* [`click aquí`](https://github.com/Endermaiter/BoletinesProgramacion2Evaluacion.git).
+- ### Para acceder a los *boletines de la primera evaluacion* [`click aquí`](https://github.com/Endermaiter/BoletinesProgramacion1Evaluacion.git).
+- ### Para acceder a los *boletines de la segunda evaluacion* [`click aquí`](https://github.com/Endermaiter/BoletinesProgramacion2Evaluacion.git).
 
