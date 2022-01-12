@@ -1,5 +1,5 @@
-# BOLETINES => _Primera Evaluación_
-## Boletines 1-17
+# BOLETINES => _Tercera Evaluación_
+## Boletines -
 
 `Marcos Pérez Novoa`
 
