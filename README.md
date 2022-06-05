@@ -1,5 +1,5 @@
 # BOLETINES => _Tercera Evaluación_
-## Boletines: `26` - `X`
+## Boletines: `26` - `35`
 
 `Marcos Pérez Novoa - 1ºDAM`
 
